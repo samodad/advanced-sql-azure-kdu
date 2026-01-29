@@ -1,5 +1,5 @@
 
-# 📘 Advanced SQL & Azure – KDU
+# 📘 Advanced SQL & Azure
 
 **Azure SQL, Power BI & Advanced SQL Examples**
 
